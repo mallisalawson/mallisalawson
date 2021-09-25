@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Cup Delivery Recommendation Systems
 - 💞️ I’m looking to collaborate on @peace ✌🏻
-- 🤩 Fan of @shantanuuchak
+- 🤩 Bfftle [@shantanuuchak](http://github.com/shantanuuchak "@shantanuuchak")
 
 <!---
 mallisalawson/mallisalawson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
